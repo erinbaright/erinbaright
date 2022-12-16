@@ -10,5 +10,5 @@
 - :car: Roadtripping & Exploring new places
 - :seedling: Sustainable Living
 
-#### :smile: ![Connect with me on LinkedIn!](https://www.linkedin.com/in/erin-baright/)
+#### :smile: [Connect with me on LinkedIn!](https://www.linkedin.com/in/erin-baright/)
 
