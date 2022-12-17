@@ -5,7 +5,7 @@
 #### Tech stack: JavaScript, React, HTML5, CSS3, Bootstrap, Express, SQL, Node, MongoDB, Django, Python
 
 #### Personal Interests:
-- :notes: Listening to rock music
+- :notes: Listening to music
 - :rose: The Grateful Dead
 - :car: Roadtripping & Exploring new places
 - :seedling: Sustainable Living
