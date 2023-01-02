@@ -6,7 +6,6 @@
 
 #### Personal Interests:
 - :notes: Listening to music
-- :rose: The Grateful Dead
 - :car: Roadtripping & Exploring new places
 - :seedling: Sustainable Living
 
