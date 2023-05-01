@@ -1,4 +1,4 @@
-### Welcome! 👋 My name is Erin Baright and I'm a Full-Stack Developer.
+### Welcome! 👋 My name is Erin and I'm a Full-Stack Developer.
 
 #### I recently completed a full-time Software Engineering Immersive bootcamp at General Assembly learning front and back-end languages/frameworks and implementing full-CRUD functionality.
 
